@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    display: flex;
+}
+    
+#img1{
+    height: 96.8vh;
+    width: 50vw;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+#titulo{
+    padding-top: 450px;
+    padding-left: 100px;
+    text-align: center;
+    font-family:Arial;
+}
+
+#inputUsername, #inputPassword{
+    height: 30px;
+    width: 300px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+#Inputentrar, #criarConta{
+    font-size: 13px;
+    font-family: "Roboto";
+    background-color: #00b55c;
+    color: white;
+    height: 50px;
+    width: 630px;
+    border-radius: 10px;
+    border: 0;
+    cursor: pointer;
+}
+
+#criarConta{
+    margin-top: 5px;
+    background-color: rgb(110, 116, 158);
+}
+
+
+
+
+
+

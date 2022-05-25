@@ -1,0 +1,64 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    display: flex;
+}
+
+    
+#img1{
+    height: 97.3vh;
+    width: 50vw;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-bottom: 10px;
+
+}
+
+#login{
+    padding-top: 300px;
+    padding-left: 0px;
+    text-align: center;
+    font-family:Arial;
+   
+    
+}
+
+#nome, #password, #password2, #criarConta, #btnVoltar{
+    margin-top: 30px;
+    height: 35px;
+    padding-right: 130px;
+    margin-right: 100px;
+    margin-left: 150px;
+    display: block;
+}
+
+#criarConta, #btnVoltar{
+    background-color: #00b55c;
+    color: white;
+    font-size: 18px;
+    width: 400px;
+    padding-left: 130px;
+    border-radius: 10px;
+    border: white;
+    cursor: pointer;
+}
+#btnVoltar{
+        margin-top: 5px;
+        background-color: rgb(110, 116, 158);
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
